@@ -49,7 +49,7 @@ Nnomor 4 menggunakan Push Button dan Horizontal Layout.
 ## Tampilan Clear
 <img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/CLEAR.PNG">
 
-## Tampilan clear
+## Tampilan Hapus
 <img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/HAPUS.PNG">
 
 

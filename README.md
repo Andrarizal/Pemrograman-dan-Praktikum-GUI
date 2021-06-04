@@ -37,8 +37,25 @@ Nnomor 4 menggunakan Push Button dan Horizontal Layout.
 
 # UTS 
 # NO 1 MEMBUAT DATA MAHASISWA DENGAN QT DESIGNER
+## Tampilan awal
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/TAMPILAN%20AWAL.PNG">
+
+## Tampilan Tambah
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/tambah.PNG">
+
+## Tampilan Edit
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/EDIT.PNG">
+
+## Tampilan Clear
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/CLEAR.PNG">
+
+## Tampilan clear
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/HAPUS.PNG">
+
 
 # NO 2 MENGANALISIS CODINGAN
 
-karena codingan tersebut terdapat kesalahan indentasi pada line 21, agarberjalan dengan baik maka saya menghapusnya.
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/UTS/NO2.PNG">
+
+disini saya menganalisis bahwa pada line 15 yang tertera pada gambar diatas ini dengan disoal itu saya ubah sedikit,karena codingan tersebut terdapat kesalahan indentasi pada line 15, jika tidak dihapus maka program akan eror, maka saya menghapusnya.
 

@@ -33,3 +33,12 @@ Nnomor 4 menggunakan Push Button dan Horizontal Layout.
 
 ##  PREVIEW
 <img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/Tugas%20Kisi%20Kisi/Preview%20Data%20Mahasiswa.PNG">
+
+
+# UTS 
+# NO 1 MEMBUAT DATA MAHASISWA DENGAN QT DESIGNER
+
+# NO 2 MENGANALISIS CODINGAN
+
+karena codingan tersebut terdapat kesalahan indentasi pada line 21, agarberjalan dengan baik maka saya menghapusnya.
+

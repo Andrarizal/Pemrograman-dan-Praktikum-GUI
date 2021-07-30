@@ -17,7 +17,7 @@ This is little my design and program
        2.1 MEMBUAT KALENDER
        2.2 KISI KISI
        2.3 UTS
-       2.4 UAS
+       2.4 TUGAS BESAR UAS
        
 
 ## Silahkan klik praktikum atau Teori di Branch yang tersedia 

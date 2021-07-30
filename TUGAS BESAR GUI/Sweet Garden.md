@@ -25,7 +25,7 @@ Aplikasi ini rancang oleh:
 <img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/TUGAS%20BESAR%20GUI/USE%20CASE%20TUBES%20GUI.png">
 
 ## Desain Database
-<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/TUGAS%20BESAR%20GUI/Desain%20database.PNG>
+<img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/TUGAS%20BESAR%20GUI/Desain%20database.PNG">
 
 ## Fitur pada PYQT
 

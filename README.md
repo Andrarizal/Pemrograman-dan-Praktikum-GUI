@@ -99,6 +99,7 @@ b. Form/dialog : Aplikasi Sweet Garden kami sudah menggunakan widget
 <img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/TUGAS%20BESAR%20GUI/Form.jpeg">
 
 c. Multimedia : Aplikasi kami sudah menggunakan komponen multimedia, silahkan perhatikan gambar gambar backround yang tertera
+
 <img src = "https://github.com/Andrarizal/Pemrograman-dan-Praktikum-GUI/blob/TEORI-GUI/TUGAS%20BESAR%20GUI/Sweetgarden/imgs_github/3.jpeg">
 
 d. Terkoneksi database : Aplikasi kami sudah terkoneksi database
